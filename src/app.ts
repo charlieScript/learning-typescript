@@ -26,8 +26,7 @@ let person: {
   age: number
 }
 
-person.age = 20
-person.nam = 'jo'
+
 
 
 // UNION TYPES
